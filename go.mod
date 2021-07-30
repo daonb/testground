@@ -10,7 +10,7 @@ require (
 	github.com/aws/aws-sdk-go v1.40.11
 	github.com/containerd/containerd v1.3.4 // indirect
 	github.com/containerd/continuity v0.0.0-20200413184840-d3ef23f19fbb // indirect
-	github.com/containernetworking/cni v0.7.1
+	github.com/containernetworking/cni v0.8.1
 	github.com/docker/distribution v2.7.1+incompatible // indirect
 	github.com/docker/docker v1.4.2-0.20200206084213-b5fc6ea92cde
 	github.com/docker/go-connections v0.4.0
@@ -30,7 +30,7 @@ require (
 	github.com/influxdata/influxdb1-client v0.0.0-20200515024757-02f0bf5dbca3
 	github.com/kubernetes/client-go v11.0.0+incompatible
 	github.com/logrusorgru/aurora v0.0.0-20191017060258-dc85c304c434
-	github.com/mattn/go-zglob v0.0.1
+	github.com/mattn/go-zglob v0.0.3
 	github.com/mholt/archiver v3.1.1+incompatible
 	github.com/mitchellh/go-wordwrap v1.0.1
 	github.com/mitchellh/mapstructure v1.4.1
@@ -54,7 +54,7 @@ require (
 	github.com/whilp/git-urls v0.0.0-20191001220047-6db9661140c0
 	github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 // indirect
 	go.uber.org/zap v1.18.1
-	golang.org/x/sync v0.0.0-20200317015054-43a5402ce75a
+	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c
 	golang.org/x/tools v0.0.0-20191125144606-a911d9008d1f // indirect
 	google.golang.org/appengine v1.6.2 // indirect
